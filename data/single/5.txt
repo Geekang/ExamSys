@@ -1,0 +1,5 @@
+我天津某公司与美商签订进口合同，规定在旧金山的船上交货，应采用（   ）
+FOB Tianjin
+FOB San Francisco
+FOB Vessel San Francisco
+CIF San Francisco
